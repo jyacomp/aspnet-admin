@@ -1,0 +1,47 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.6.0",
+      "destination": "wwwroot/lib/jquery/"
+    },
+    {
+      "library": "bootstrap@4.6.0",
+      "destination": "wwwroot/lib/bootstrap/"
+    },
+    {
+      "library": "admin-lte@3.1.0",
+      "destination": "wwwroot/lib/admin-lte/"
+    },
+    {
+      "provider": "unpkg",
+      "library": "jquery-validation@1.19.3",
+      "destination": "wwwroot/lib/jquery-validation/"
+    },
+    {
+      "library": "jquery-validation-unobtrusive@3.2.12",
+      "destination": "wwwroot/lib/jquery-validation-unobtrusive/"
+    },
+    {
+      "library": "normalize@8.0.1",
+      "destination": "wwwroot/lib/normalize/"
+    },
+    {
+      "library": "font-awesome@5.15.3",
+      "destination": "wwwroot/lib/font-awesome/"
+    },
+    {
+      "library": "Chart.js@3.5.1",
+      "destination": "wwwroot/lib/chartjs/"
+    },
+    {
+      "library": "bootstrap-select@1.13.18",
+      "destination": "wwwroot/lib/bootstrap-select/"
+    },
+    {
+      "library": "paper-css@0.4.1",
+      "destination": "wwwroot/lib/paper-css/"
+    }
+  ]
+}
